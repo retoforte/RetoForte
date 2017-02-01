@@ -20,7 +20,7 @@
 	<extension point="xbmc.addon.repository" name="RetoForte official Repo">
 		<info compressed="false">https://raw.githubusercontent.com/retoforte/RetoForte/master/repository.retoforte/addon.xml</info>
 		<checksum>https://raw.githubusercontent.com/retoforte/RetoForte/master/repository.retoforte/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/retoforte/RetoForte/master/</datadir>
+		<datadir zip="true">https://raw.githubusercontent.com/retoforte/RetoForte/master</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>RetoForte official Repo</summary>
