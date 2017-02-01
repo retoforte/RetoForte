@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="repository.kodi-mexico" name="Kodi-Mexico official Repo" version="1.0.0" provider-name="KodiMexico">
+	<extension point="xbmc.addon.repository" name="Kodi-Mexico official Repo">
+		<info compressed="false">https://raw.githubusercontent.com/retoforte/RetoForte/master/repository.retoforte/addon.xml</info>
+		<checksum>https://raw.githubusercontent.com/retoforte/RetoForte/master/repository.retoforte/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/retoforte/RetoForte/master</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Kodi-Mexico official Repo</summary>
+   		<description lang="en">Instala los Addons de Kodi Mexico.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="plugin.program.Kali" name="Kali Wizard" version="1.0" provider-name="Kali">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -102,19 +116,5 @@ https://yulfiostv.wordpress.com </description>
 
    <platform>all</platform>
   </extension>
-</addon>
-
-<addon id="repository.retoForte" name="RetoForte Official Repo" version="1.0.0" provider-name="RetoForte">
-	<extension point="xbmc.addon.repository" name="RetoForte official Repo">
-		<info compressed="false">https://raw.githubusercontent.com/retoforte/RetoForte/master/repository.retoforte/addon.xml</info>
-		<checksum>https://raw.githubusercontent.com/retoforte/RetoForte/master/repository.retoforte/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/retoforte/RetoForte/master</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>K \ Official Repo</summary>
-   		<description lang="en">Instala los Addons.</description>
-		<disclaimer></disclaimer>
-		<platform>all</platform>
-	</extension>
 </addon>
 </addons>
