@@ -1,2 +1,0 @@
-# RetoForte
-Information to idok

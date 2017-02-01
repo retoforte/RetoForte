@@ -47,7 +47,6 @@ if standalone:
             print script_name + '  v' + str(revision_number)
             print script_credits
             print 'Homepage and updates: ' + homepage
-            print 'Homepage and repo_root: ' + repo_root
             print ' '
 
 else:
