@@ -33,7 +33,7 @@ compress_addons = True
 
 #Optional set a custom directory of where your addons are. False will use the current directory.
 # NOTE: the settings.py of repository aggregator will override this
-repo_root = 'Addons'
+repo_root = False
 ########## End SETTINGS
 
 # check if repo-prep.py is being run standalone or called from another python file
@@ -47,6 +47,7 @@ if standalone:
             print script_name + '  v' + str(revision_number)
             print script_credits
             print 'Homepage and updates: ' + homepage
+            print 'Homepage and repo_root: ' + repo_root
             print ' '
 
 else:
