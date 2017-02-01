@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.retoforte" name="RetoForte official Repo" version="1.0.0" provider-name="RetoForte">
 	<extension point="xbmc.addon.repository" name="RetoForte official Repo">
-		<info compressed="false">https://raw.githubusercontent.com/retoforte/RetoForte/master/repository.retoforte/addon.xml</info>
+		<info compressed="true">https://raw.githubusercontent.com/retoforte/RetoForte/master/repository.retoforte/addon.xml</info>
 		<checksum>https://raw.githubusercontent.com/retoforte/RetoForte/master/repository.retoforte/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/retoforte/RetoForte/master/</datadir>
 	</extension>
