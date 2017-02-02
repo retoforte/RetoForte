@@ -1,8 +1,8 @@
-10
+11
 ||| 
 Hola Hemos actualizado tus paquetes de Canales
 
 Dirigete al menu de Addons\Programs\RetoForte y enjecutalo
-\n
-<br />
+
+
 
