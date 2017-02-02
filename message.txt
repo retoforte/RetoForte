@@ -1,0 +1,12 @@
+19
+||| 
+Hola hemos actualizado tu [B]Paquete[/B] de [COLOR red]Canales[/COLOR].
+Estas son las nuevas noticias para ti:
+* [B]Nuevos canales[/B] > [COLOR blue]TTI, Bob V2, Anime Zone y Dante Gebel.[/COLOR]
+* [B]Eliminados[/B] > [COLOR blue]Mundo Latino.[/COLOR]
+* [B]Info[/B] > [COLOR blue]Cuando el proveedor de los canales TV los actualice tendras el servicio nuevamente.[/COLOR]
+
+Para visualizar esta actualizacion realiza lo siguiente:
+* Entra a Add-ons> Add-ons de programas > RetoForte > [COLOR blue]RetoForte Kodi Build y ejecutalo.[/COLOR]
+* Entra a Mis add-ons> Add-ons de Video>[COLOR yellow]Activa cada uno de los Nuevos Canales.[/COLOR]
+
