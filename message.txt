@@ -1,0 +1,10 @@
+21
+||| 
+Gracias por adquirir tu [B]Aplicacion de Entretenimiento[/B], [COLOR red]ahora ya cuentas con todo un paquete de Canales a tu servicio[/COLOR].
+Estas son las nuevas noticias para ti:
+* [B]Nuevos canales[/B] > [COLOR blue]Tienes los mejores Canales de Contenido[/COLOR]
+* [B]Eliminados[/B] > [COLOR blue]Ninguno[/COLOR]
+* [B]Info[/B] > [COLOR blue]En esta ventana apareceran las noticias y te avisaremos cuando actualicemos tu paquete.[/COLOR]
+
+Nuestro interes es mantenerte disponible opciones de entretenimiento, sin embargo [COLOR yellow]la disponibilidad del contenido y su calidad no esta en nuestras manos.[/COLOR]
+[COLOR blue]Disfrutalo :)[/COLOR].
