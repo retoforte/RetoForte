@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.program.xbmchub.notifications" version="99.0.0" name="Notifications" provider-name="RetoForte">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.addon.common" optional="true" />
+  </requires>
+  <extension point="xbmc.python.script" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary>TVADDONS NEWS</summary>
+  	<description>Receive Important TVADDONS Notifications. Unsubscribe within Add-on Settings.</description>
+  	<disclaimer>We take no responsibility for any problems this plugin might in any way, form, shape or size cause.</disclaimer>
+  	<language>en</language>
+  	<platform>all</platform>
+  	<forum>http://forums.tvaddons.ag/forum.php</forum>
+  	<website>http://www.tvaddons.ag/</website>
+  	<source></source>
+  	<email></email>
+  </extension>
+</addon>
+<addon id="plugin.video.RetoForteKodiWizard" name="RetoForte" version="1.1.0" provider-name="RetoForte">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Reto Forte Wizard</summary>
+    <description lang="en">Tu instalador de proveedores de contenido. Nos actualizamos constantemente para mantener que tu experiencia de entretenimiento sea mejor.</description>
+	<website>http://google.com</website>
+    <platform>all</platform>
+  </extension>
+</addon>
+<addon id="script.retoforte.activate" name="Media Core Act" version="1.1.8" provider-name="RetoForte">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+    <import addon="script.module.pyxbmct" version="1.1.4" />
+  </requires>
+  <extension point="xbmc.python.script" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="default.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Do not remove this lib, It may cause a system failure</summary>
+    <description lang="en"></description>
+  </extension>
+</addon>
+<addon id="plugin.video.zonalatina"
+       name="[COLOR red]ZONA[/COLOR] [COLOR white]LATINA[/COLOR]"
+       version="4.0"
+       provider-name="[COLOR red]K[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />    
+     <import addon="script.module.livestreamer" optional="true"/>
+     <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>[COLOR red]Peliculas, Series, Canales, Deportes y Animes en Espanol por Johnyx, Basado en LiveStream Pro de Shani [/COLOR]</summary>
+    <description>[COLOR red]Peliculas, Series, Canales, Deportes y Animes en Espanol por Johnyx, Basado en LiveStream Pro de Shani [/COLOR]</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+</addons>
