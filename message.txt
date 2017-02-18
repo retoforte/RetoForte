@@ -1,0 +1,11 @@
+25
+||| 
+[COLOR blue]02/18/2017[/COLOR][COLOR yellow][B]Woooha[B] nuevo Update,[/COLOR][B]2am y terminando de probarlo.[B]
+Estas son las nuevas noticias para ti:
+* [B]Nuevos canales[/B] > [COLOR blue]Zen, Tecno TV, Mundo Latino, Miflix[/COLOR]
+* [B]Eliminados[/B] > [COLOR blue]Metropolitan y Zona latina (muchas fallas)[/COLOR]
+* [B]Info[/B] > [COLOR blue]Nos hemos esforzado por colocar contenido en español, esperamos sean mas estables.[/COLOR]
+[COLOR red]Estaremos evaluando un nuevo proveedor de canales de TV (estabilidad y confiabilidad) te mantendremos informado.[/COLOR]
+
+Queremos darte opciones de entretenimiento, sin embargo [COLOR yellow]la disponibilidad,contenido y calidad no esta en nuestras manos.[/COLOR]
+[COLOR yellow][B]Para instalarla ejecuta Reto Forte y sigue las instrucciones...[B][/COLOR]
