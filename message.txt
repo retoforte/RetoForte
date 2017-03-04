@@ -1,9 +1,0 @@
-30
-||| 
-[COLOR red]03/04/17[/COLOR]
-Estas son las nuevas noticias para ti:
-* [B]Nuevos canales[/B] > [COLOR blue]YankieTV, SinTele, MiFlix Actualizado[/COLOR]
-* [B]Eliminados[/B] > [COLOR blue]AdryaList, MovieMix[/COLOR]
-* [B]Info[/B] > [COLOR green]La fuente de canales de TV gratis aun no esta disponible, esperemos un poco mas.[/COLOR]
-[COLOR blue]Ya tenemos proveedor de [COLOR green]TV Premium[/COLOR] con canales mucho mas estables y de mejor calidad, si tu RED no es muy rapida solicita tu cuenta de prueba a [COLOR blue]soporte@retoforte.com[/COLOR] [/COLOR]
-Queremos darte opciones de entretenimiento. [COLOR blue]La disponibilidad,contenido y calidad no esta en nuestras manos.[/COLOR]
