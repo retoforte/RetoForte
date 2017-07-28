@@ -1,11 +1,10 @@
-40
+42
 |||
-[COLOR green]04/29/17[/COLOR]
+[COLOR green]28/07/17[/COLOR]
 Estas son las nuevas noticias para ti:
-* [B]Nuevos canales[/B] > [COLOR yellow]Ninguno[/COLOR]
-* [B]Eliminados[/B] > [COLOR blue]Ninguno[/COLOR]
-* [B]Info[/B] > [COLOR yellow]Netstream y Metropolitan han sido actualizados para ser mas rapidos cuando ya se ha cargado el contenido por primera vez, si presentas problemas con esta funcionalidad experimental notifica a soporte@retoforte.com
-		[/COLOR]
-[COLOR red]Escribenos a soporte@retoforte.com [/COLOR]
+* [B]Nuevos canales[/B] > [COLOR yellow]Palantir, El Rincon de Lolo[/COLOR]
+* [B]Eliminados[/B] > [COLOR blue]Catoal[/COLOR]
+* [B]Info[/B] > [COLOR yellow]Palantir es un addon 100% infantil disfrutenlo.[/COLOR]
+[COLOR red]Escribenos a soporte@retoforte.com para cualquier sugerencia del servicio[/COLOR]
 
 
