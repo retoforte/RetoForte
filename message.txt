@@ -1,10 +1,10 @@
-42
+43
 |||
-[COLOR green]28/07/17[/COLOR]
+[COLOR green]22/08/17[/COLOR]
 Estas son las nuevas noticias para ti:
-* [B]Nuevos canales[/B] > [COLOR yellow]Palantir, El Rincon de Lolo[/COLOR]
-* [B]Eliminados[/B] > [COLOR blue]Catoal[/COLOR]
-* [B]Info[/B] > [COLOR yellow]Palantir es un addon 100% infantil disfrutenlo.[/COLOR]
+* [B]Nuevos canales[/B] > [COLOR yellow]NICFLIX y Alfa[/COLOR]
+* [B]Eliminados[/B] > [COLOR blue][/COLOR]
+* [B]Info[/B] > [COLOR yellow]El nuevo contenido es Latino, disfrutenlo!!.[/COLOR]
 [COLOR red]Escribenos a soporte@retoforte.com para cualquier sugerencia del servicio[/COLOR]
 
 
