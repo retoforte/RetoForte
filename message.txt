@@ -1,10 +1,10 @@
-44
+45
 |||
-[COLOR green]22/08/17[/COLOR]
+[COLOR green]09/07/17[/COLOR]
 Estas son las nuevas noticias para ti:
-* [B]Nuevos canales[/B] > [COLOR yellow]Ninguno[/COLOR]
+* [B]Nuevos canales[/B] > [COLOR yellow]Atlantis[/COLOR]
 * [B]Eliminados[/B] > [COLOR blue][/COLOR]
-* [B]Info[/B] > [COLOR yellow]Hemos actualizado SummerTV y ahora vuelve a funcionar, disfrutenlo[/COLOR]
+* [B]Info[/B] > [COLOR yellow]Atlantis con muchas series en Español, disfrutenlo[/COLOR]
 [COLOR red]Escribenos a soporte@retoforte.com para cualquier sugerencia del servicio[/COLOR]
 
 
