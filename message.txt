@@ -1,10 +1,10 @@
-46
+47
 |||
 [COLOR green]09/07/17[/COLOR]
 Estas son las nuevas noticias para ti:
-* [B]Nuevos canales[/B] > [COLOR yellow]Atlantis y MIFLIX 4.1[/COLOR]
+* [B]Nuevos canales[/B] > [COLOR red]Ninguno[/COLOR]
 * [B]Eliminados[/B] > [COLOR blue][/COLOR]
-* [B]Info[/B] > [COLOR yellow]Atlantis con muchas series en Español y el regreso de MIFLIX disfrutenlos[/COLOR]
+* [B]Info[/B] > [COLOR white]A los usuarios de Canales Premium, la proxima semana tendran disponibles la programacion de canales y asi puedan seleccionar mejor su contenido.[/COLOR]
 [COLOR red]Escribenos a soporte@retoforte.com para cualquier sugerencia del servicio[/COLOR]
 
 
