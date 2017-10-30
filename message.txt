@@ -1,10 +1,10 @@
-47
+48
 |||
-[COLOR green]09/07/17[/COLOR]
+[COLOR green]29/10/17[/COLOR]
 Estas son las nuevas noticias para ti:
-* [B]Nuevos canales[/B] > [COLOR red]Ninguno[/COLOR]
-* [B]Eliminados[/B] > [COLOR blue][/COLOR]
-* [B]Info[/B] > [COLOR white]A los usuarios de Canales Premium, la proxima semana tendran disponibles la programacion de canales y asi puedan seleccionar mejor su contenido.[/COLOR]
+* [B]Nuevos canales[/B] > [COLOR red]ZihuaFlix el reemplazo de SummerTV[/COLOR]
+* [B]Eliminados[/B] > [COLOR blue]SummerTV[/COLOR]
+* [B]Info[/B] > [COLOR white]A los usuarios de Canales Premium, ya tienen disponible la guia de canales en la seccion de TV.[/COLOR]
 [COLOR red]Escribenos a soporte@retoforte.com para cualquier sugerencia del servicio[/COLOR]
 
 
